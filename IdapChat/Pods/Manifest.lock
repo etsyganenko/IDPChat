@@ -1,0 +1,12 @@
+PODS:
+  - QuickBlox (2.7.2.1)
+
+DEPENDENCIES:
+  - QuickBlox
+
+SPEC CHECKSUMS:
+  QuickBlox: c7abf34fe939ea14b6fdb57685029d1ab7c10bd5
+
+PODFILE CHECKSUM: 0c235a1cd51ea12f1c50eacfc4b76c657488430d
+
+COCOAPODS: 1.0.0
